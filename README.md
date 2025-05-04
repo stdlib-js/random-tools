@@ -86,6 +86,13 @@ The namespace exports the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`unaryFactory( prng, idtypes odtypes, policies[, options] )`][@stdlib/random/tools/unary-factory]</span><span class="delimiter">: </span><span class="description">create a function for generating pseudorandom values drawn from a unary PRNG.</span>
+-   <span class="signature">[`unary( prng, idtypes odtypes, policies[, options] )`][@stdlib/random/tools/unary]</span><span class="delimiter">: </span><span class="description">constructor for creating ndarrays filled with pseudorandom values drawn from a unary PRNG.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -200,6 +207,14 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/random-tools/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-tools/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/random/tools/unary-factory]: https://github.com/stdlib-js/random-tools-unary-factory
+
+[@stdlib/random/tools/unary]: https://github.com/stdlib-js/random-tools-unary
+
+<!-- </toc-links> -->
 
 </section>
 

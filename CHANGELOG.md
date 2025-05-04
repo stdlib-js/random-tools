@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-03)
+## Unreleased (2025-05-04)
 
 <section class="features">
 
@@ -20,12 +20,33 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`2eaea4a`](https://github.com/stdlib-js/stdlib/commit/2eaea4af45fe8ae07759c35d6e8d13636df30637) - add type check to ensure only options objects are passed to factory
+-   [`6fcba80`](https://github.com/stdlib-js/stdlib/commit/6fcba8015a623cccab4c4c60152ef680653be786) - ensure support for zero-dimensional ndarray distribution parameters
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`7423599`](https://github.com/stdlib-js/stdlib/commit/74235999433f4fa850bc842988b53e3f3367d585) - **docs:** update namespace table of contents [(#6917)](https://github.com/stdlib-js/stdlib/pull/6917) _(by stdlib-bot)_
+-   [`ac07e90`](https://github.com/stdlib-js/stdlib/commit/ac07e9063a58953875c233620315566bf18b0692) - **docs:** fix signature _(by Athan Reines)_
+-   [`ada899e`](https://github.com/stdlib-js/stdlib/commit/ada899e505ef19e01af7a68dbbcca58451607faf) - **docs:** fix signature _(by Athan Reines)_
+-   [`fc2fa6d`](https://github.com/stdlib-js/stdlib/commit/fc2fa6d9fd3d3ecdd5264fdb0a9f27973c8bdc7d) - **docs:** fix signature _(by Athan Reines)_
+-   [`13f2202`](https://github.com/stdlib-js/stdlib/commit/13f22029c084d4b5af8387a5fc2740be280e9bfc) - **test:** fix comment _(by Athan Reines)_
+-   [`4f24995`](https://github.com/stdlib-js/stdlib/commit/4f24995e799d0589bf1edb0c9bd9341d34ef0e9f) - **test:** fix comment _(by Athan Reines)_
+-   [`16bbff1`](https://github.com/stdlib-js/stdlib/commit/16bbff17124264210133382c5557b7016d85493a) - **bench:** explicitly set dtype _(by Athan Reines)_
+-   [`18e643f`](https://github.com/stdlib-js/stdlib/commit/18e643f8beca349ca4c6a48009cb49c5cb015060) - **bench:** explicitly set dtype _(by Athan Reines)_
+-   [`2eaea4a`](https://github.com/stdlib-js/stdlib/commit/2eaea4af45fe8ae07759c35d6e8d13636df30637) - **fix:** add type check to ensure only options objects are passed to factory _(by Athan Reines)_
+-   [`6fcba80`](https://github.com/stdlib-js/stdlib/commit/6fcba8015a623cccab4c4c60152ef680653be786) - **fix:** ensure support for zero-dimensional ndarray distribution parameters _(by Athan Reines)_
 -   [`fa668da`](https://github.com/stdlib-js/stdlib/commit/fa668da66016366690a9eaabbefcf3ef4659ef57) - **feat:** add `random/tools` namespace _(by Athan Reines)_
 -   [`fd431ff`](https://github.com/stdlib-js/stdlib/commit/fd431ff0ac7fcdea9de4fab41e441f32dab1868e) - **test:** fix typo _(by Athan Reines)_
 -   [`9a53f4a`](https://github.com/stdlib-js/stdlib/commit/9a53f4ad90da183dfd68aa1e6dc9340aad955cca) - **feat:** add TypeScript declarations _(by Athan Reines)_
