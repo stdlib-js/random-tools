@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@stdlib/random-tools-binary": "github:stdlib-js/random-tools-binary#main",
+    "@stdlib/random-tools-binary-factory": "github:stdlib-js/random-tools-binary-factory#main",
     "@stdlib/random-tools-unary": "github:stdlib-js/random-tools-unary#main",
     "@stdlib/random-tools-unary-factory": "github:stdlib-js/random-tools-unary-factory#main",
     "@stdlib/utils-define-read-only-property": "^0.2.2"
