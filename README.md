@@ -88,6 +88,7 @@ The namespace exports the following:
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`binaryFactory( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/binary-factory]</span><span class="delimiter">: </span><span class="description">create a function for generating pseudorandom values drawn from a binary PRNG.</span>
 -   <span class="signature">[`binary( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/binary]</span><span class="delimiter">: </span><span class="description">constructor for creating ndarrays filled with pseudorandom values drawn from a binary PRNG.</span>
 -   <span class="signature">[`unaryFactory( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/unary-factory]</span><span class="delimiter">: </span><span class="description">create a function for generating pseudorandom values drawn from a unary PRNG.</span>
 -   <span class="signature">[`unary( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/unary]</span><span class="delimiter">: </span><span class="description">constructor for creating ndarrays filled with pseudorandom values drawn from a unary PRNG.</span>
@@ -210,6 +211,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-tools/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/random/tools/binary-factory]: https://github.com/stdlib-js/random-tools-binary-factory
 
 [@stdlib/random/tools/binary]: https://github.com/stdlib-js/random-tools-binary
 
