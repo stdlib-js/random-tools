@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-04)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
@@ -41,6 +41,8 @@
 
 <details>
 
+-   [`8a6dbd7`](https://github.com/stdlib-js/stdlib/commit/8a6dbd7bf692bcd9ce166a7370eda0a7410da3b0) - **docs:** fix example code and return annotation values _(by Philipp Burckhardt)_
+-   [`54da286`](https://github.com/stdlib-js/stdlib/commit/54da28610f5ee6b2aa181addb1775d32f79043ee) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`271c180`](https://github.com/stdlib-js/stdlib/commit/271c180beff04bf162bcc6e4407c0b07defbf15b) - **docs:** update namespace table of contents [(#6999)](https://github.com/stdlib-js/stdlib/pull/6999) _(by stdlib-bot)_
 -   [`9b8f3a8`](https://github.com/stdlib-js/stdlib/commit/9b8f3a8e51b449803b683c7bf394d498de479a5f) - **docs:** update namespace table of contents [(#6996)](https://github.com/stdlib-js/stdlib/pull/6996) _(by stdlib-bot)_
 -   [`ffc0d94`](https://github.com/stdlib-js/stdlib/commit/ffc0d94f0d19a553d2e134cbf985ff8e6863c901) - **feat:** add `binaryFactory` to namespace _(by Athan Reines)_
@@ -84,9 +86,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
