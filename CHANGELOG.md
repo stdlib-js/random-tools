@@ -4,12 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-01)
+## Unreleased (2026-01-12)
 
 <section class="features">
 
 ### Features
 
+-   [`fe91f02`](https://github.com/stdlib-js/stdlib/commit/fe91f02a931515c8dabe9e84a50fb9d124822111) - add `ternaryFactory` to namespace
+-   [`244addc`](https://github.com/stdlib-js/stdlib/commit/244addce1a75c839b48065f9ebf7f763163e8723) - add `ternary` to namespace
+-   [`36bb700`](https://github.com/stdlib-js/stdlib/commit/36bb70027e01d79ff0b0a42847df67deb0e22ce5) - add `random/tools/ternary-factory`
+-   [`bb15dcc`](https://github.com/stdlib-js/stdlib/commit/bb15dcc572a4a67f7e7450919e7a0e3e915988dc) - add `random/tools/ternary`
+-   [`448d1b4`](https://github.com/stdlib-js/stdlib/commit/448d1b4d9963e8393bd6f7e88dfa89dfc967c290) - update `random/tools` TypeScript declarations
 -   [`ffc0d94`](https://github.com/stdlib-js/stdlib/commit/ffc0d94f0d19a553d2e134cbf985ff8e6863c901) - add `binaryFactory` to namespace
 -   [`c1d2b7a`](https://github.com/stdlib-js/stdlib/commit/c1d2b7a1b8b1a692b05c69a137e4b1240653efdc) - add `random/tools/binary-factory`
 -   [`fd2532a`](https://github.com/stdlib-js/stdlib/commit/fd2532a6faf2a890bf1fc9659a7d4856ca7366ed) - add `binary` to namespace
@@ -28,6 +33,7 @@
 
 ### Bug Fixes
 
+-   [`1add791`](https://github.com/stdlib-js/stdlib/commit/1add791e319a6e7f32c776a070488fd085da010a) - resolve normalized data type
 -   [`2eaea4a`](https://github.com/stdlib-js/stdlib/commit/2eaea4af45fe8ae07759c35d6e8d13636df30637) - add type check to ensure only options objects are passed to factory
 -   [`6fcba80`](https://github.com/stdlib-js/stdlib/commit/6fcba8015a623cccab4c4c60152ef680653be786) - ensure support for zero-dimensional ndarray distribution parameters
 
@@ -41,6 +47,25 @@
 
 <details>
 
+-   [`fe91f02`](https://github.com/stdlib-js/stdlib/commit/fe91f02a931515c8dabe9e84a50fb9d124822111) - **feat:** add `ternaryFactory` to namespace _(by Athan Reines)_
+-   [`244addc`](https://github.com/stdlib-js/stdlib/commit/244addce1a75c839b48065f9ebf7f763163e8723) - **feat:** add `ternary` to namespace _(by Athan Reines)_
+-   [`36bb700`](https://github.com/stdlib-js/stdlib/commit/36bb70027e01d79ff0b0a42847df67deb0e22ce5) - **feat:** add `random/tools/ternary-factory` _(by Athan Reines)_
+-   [`b18f5a0`](https://github.com/stdlib-js/stdlib/commit/b18f5a066b3725837f844bc6aa57a15831267093) - **style:** resolve lint failure _(by Athan Reines)_
+-   [`4b0f789`](https://github.com/stdlib-js/stdlib/commit/4b0f78943f49adfc5e2867c951496ffea6b0702b) - **style:** resolve lint failure _(by Athan Reines)_
+-   [`41a6983`](https://github.com/stdlib-js/stdlib/commit/41a6983e5a9c2d152009806cf6614478d9e1d7f2) - **style:** resolve lint failure _(by Athan Reines)_
+-   [`c3ece9a`](https://github.com/stdlib-js/stdlib/commit/c3ece9ace946b87712312c74eb171252644fa0f4) - **style:** resolve lint failure _(by Athan Reines)_
+-   [`bb15dcc`](https://github.com/stdlib-js/stdlib/commit/bb15dcc572a4a67f7e7450919e7a0e3e915988dc) - **feat:** add `random/tools/ternary` _(by Athan Reines)_
+-   [`86003ad`](https://github.com/stdlib-js/stdlib/commit/86003ad3f29289795930f3d74bef5681f5d4d55f) - **docs:** update dtype type _(by Athan Reines)_
+-   [`13e7d2c`](https://github.com/stdlib-js/stdlib/commit/13e7d2cae0aeddfbc2ea6bbbb2a465909aeb5c31) - **refactor:** support data type instances _(by Athan Reines)_
+-   [`1add791`](https://github.com/stdlib-js/stdlib/commit/1add791e319a6e7f32c776a070488fd085da010a) - **fix:** resolve normalized data type _(by Athan Reines)_
+-   [`b5edd51`](https://github.com/stdlib-js/stdlib/commit/b5edd5182fea22360a0bd2b81ffe85e0aadaedcc) - **docs:** update parameter types _(by Athan Reines)_
+-   [`cb54e8e`](https://github.com/stdlib-js/stdlib/commit/cb54e8ef612afd4437f5748e72c31b304dadb655) - **refactor:** add support for data type instances _(by Athan Reines)_
+-   [`54dedc8`](https://github.com/stdlib-js/stdlib/commit/54dedc875b59bba13e20c72a81f29bcf6df650be) - **docs:** update example _(by Athan Reines)_
+-   [`4abc1e5`](https://github.com/stdlib-js/stdlib/commit/4abc1e583d211d7835a3c91e2b5d1561a16284e4) - **docs:** update example _(by Athan Reines)_
+-   [`8b67e65`](https://github.com/stdlib-js/stdlib/commit/8b67e657187346504d985ad7b6cd9415f6514705) - **docs:** update example _(by Athan Reines)_
+-   [`29770ff`](https://github.com/stdlib-js/stdlib/commit/29770ff2a7af5c4e79df472a846300c0420b44b0) - **docs:** update example _(by Athan Reines)_
+-   [`5da1e4c`](https://github.com/stdlib-js/stdlib/commit/5da1e4cb3d745fb99d24acb4d68b9de1bc43fefc) - **docs:** fix description _(by Athan Reines)_
+-   [`448d1b4`](https://github.com/stdlib-js/stdlib/commit/448d1b4d9963e8393bd6f7e88dfa89dfc967c290) - **feat:** update `random/tools` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`8a6dbd7`](https://github.com/stdlib-js/stdlib/commit/8a6dbd7bf692bcd9ce166a7370eda0a7410da3b0) - **docs:** fix example code and return annotation values _(by Philipp Burckhardt)_
 -   [`54da286`](https://github.com/stdlib-js/stdlib/commit/54da28610f5ee6b2aa181addb1775d32f79043ee) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`271c180`](https://github.com/stdlib-js/stdlib/commit/271c180beff04bf162bcc6e4407c0b07defbf15b) - **docs:** update namespace table of contents [(#6999)](https://github.com/stdlib-js/stdlib/pull/6999) _(by stdlib-bot)_
