@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-12)
+## Unreleased (2026-01-14)
 
 <section class="features">
 
 ### Features
 
+-   [`8b93c8d`](https://github.com/stdlib-js/stdlib/commit/8b93c8d51432c3ceb2a41f80bda77f77021e021e) - update `random/tools` TypeScript declarations [(#9718)](https://github.com/stdlib-js/stdlib/pull/9718)
 -   [`fe91f02`](https://github.com/stdlib-js/stdlib/commit/fe91f02a931515c8dabe9e84a50fb9d124822111) - add `ternaryFactory` to namespace
 -   [`244addc`](https://github.com/stdlib-js/stdlib/commit/244addce1a75c839b48065f9ebf7f763163e8723) - add `ternary` to namespace
 -   [`36bb700`](https://github.com/stdlib-js/stdlib/commit/36bb70027e01d79ff0b0a42847df67deb0e22ce5) - add `random/tools/ternary-factory`
@@ -47,6 +48,7 @@
 
 <details>
 
+-   [`8b93c8d`](https://github.com/stdlib-js/stdlib/commit/8b93c8d51432c3ceb2a41f80bda77f77021e021e) - **feat:** update `random/tools` TypeScript declarations [(#9718)](https://github.com/stdlib-js/stdlib/pull/9718) _(by stdlib-bot)_
 -   [`fe91f02`](https://github.com/stdlib-js/stdlib/commit/fe91f02a931515c8dabe9e84a50fb9d124822111) - **feat:** add `ternaryFactory` to namespace _(by Athan Reines)_
 -   [`244addc`](https://github.com/stdlib-js/stdlib/commit/244addce1a75c839b48065f9ebf7f763163e8723) - **feat:** add `ternary` to namespace _(by Athan Reines)_
 -   [`36bb700`](https://github.com/stdlib-js/stdlib/commit/36bb70027e01d79ff0b0a42847df67deb0e22ce5) - **feat:** add `random/tools/ternary-factory` _(by Athan Reines)_
