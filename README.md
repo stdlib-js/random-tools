@@ -90,6 +90,8 @@ The namespace exports the following:
 
 -   <span class="signature">[`binaryFactory( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/binary-factory]</span><span class="delimiter">: </span><span class="description">create a function for generating pseudorandom values drawn from a binary PRNG.</span>
 -   <span class="signature">[`binary( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/binary]</span><span class="delimiter">: </span><span class="description">constructor for creating ndarrays filled with pseudorandom values drawn from a binary PRNG.</span>
+-   <span class="signature">[`ternaryFactory( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/ternary-factory]</span><span class="delimiter">: </span><span class="description">create a function for generating pseudorandom values drawn from a ternary PRNG.</span>
+-   <span class="signature">[`ternary( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/ternary]</span><span class="delimiter">: </span><span class="description">constructor for creating ndarrays filled with pseudorandom values drawn from a ternary PRNG.</span>
 -   <span class="signature">[`unaryFactory( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/unary-factory]</span><span class="delimiter">: </span><span class="description">create a function for generating pseudorandom values drawn from a unary PRNG.</span>
 -   <span class="signature">[`unary( prng, idtypes, odtypes, policies[, options] )`][@stdlib/random/tools/unary]</span><span class="delimiter">: </span><span class="description">constructor for creating ndarrays filled with pseudorandom values drawn from a unary PRNG.</span>
 
@@ -215,6 +217,10 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/tools/binary-factory]: https://github.com/stdlib-js/random-tools-binary-factory
 
 [@stdlib/random/tools/binary]: https://github.com/stdlib-js/random-tools-binary
+
+[@stdlib/random/tools/ternary-factory]: https://github.com/stdlib-js/random-tools-ternary-factory
+
+[@stdlib/random/tools/ternary]: https://github.com/stdlib-js/random-tools-ternary
 
 [@stdlib/random/tools/unary-factory]: https://github.com/stdlib-js/random-tools-unary-factory
 

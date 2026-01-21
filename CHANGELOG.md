@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-14)
+## Unreleased (2026-01-21)
 
 <section class="features">
 
@@ -48,6 +48,7 @@
 
 <details>
 
+-   [`68446dc`](https://github.com/stdlib-js/stdlib/commit/68446dcb55d7b08e39baf6efae7ba5ba038c923f) - **docs:** update namespace table of contents [(#9848)](https://github.com/stdlib-js/stdlib/pull/9848) _(by stdlib-bot)_
 -   [`8b93c8d`](https://github.com/stdlib-js/stdlib/commit/8b93c8d51432c3ceb2a41f80bda77f77021e021e) - **feat:** update `random/tools` TypeScript declarations [(#9718)](https://github.com/stdlib-js/stdlib/pull/9718) _(by stdlib-bot)_
 -   [`fe91f02`](https://github.com/stdlib-js/stdlib/commit/fe91f02a931515c8dabe9e84a50fb9d124822111) - **feat:** add `ternaryFactory` to namespace _(by Athan Reines)_
 -   [`244addc`](https://github.com/stdlib-js/stdlib/commit/244addce1a75c839b48065f9ebf7f763163e8723) - **feat:** add `ternary` to namespace _(by Athan Reines)_
